@@ -1,11 +1,11 @@
 File name,Method,Best known,Result,Time
-tai100a,local search,21044752,22960832.0,0.602
-tai100a,iterated local search,21044752,23210794.0,5.1351
-tai20a,local search,703482,761786.0,0.038
-tai20a,iterated local search,703482,732318.0,0.797
-tai40a,local search,3139370,3344756.0,0.451
-tai40a,iterated local search,3139370,3250536.0,2.07
-tai60a,local search,7205962,7760842.0,0.551
-tai60a,iterated local search,7205962,7875222.0,2.6273
-tai80a,local search,13499184,14759560.0,0.413
-tai80a,iterated local search,13499184,14673794.0,3.738
+tai100a,local search,21044752,23861566.0,3.0951
+tai100a,iterated local search,21044752,23544640.0,149.3235
+tai20a,local search,703482,842714.0,0.078
+tai20a,iterated local search,703482,815738.0,1.693
+tai40a,local search,3139370,3769754.0,0.353
+tai40a,iterated local search,3139370,3589054.0,11.084
+tai60a,local search,7205962,8451198.0,0.905
+tai60a,iterated local search,7205962,8128838.0,34.5569
+tai80a,local search,13499184,15557336.0,1.768
+tai80a,iterated local search,13499184,15158756.0,78.6218
